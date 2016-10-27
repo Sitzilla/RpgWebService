@@ -1,0 +1,33 @@
+vendor/
+Gemfile.lock
+*.pid
+logFile.*
+/*/target/*
+application.yml
+target/
+.idea/
+.rakeTasks
+
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
